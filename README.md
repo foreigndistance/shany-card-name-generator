@@ -7,7 +7,11 @@
 
 Node.js에서 puppeteer의 스크린샷 캡쳐 기능을 활용하여, CSS와 SVG를 삽입한 HTML 페이지를 캡쳐하고 저장하는 방식으로 작동합니다.
 
-## 사용 방법
+## 사용 방법 (GitHub Actions 이용한 자동 이미지 생성)
+1. 추가된 카드 이름을 data-update.csv에 입력합니다. 번역 수정 등의 경우 이미 있는 CSV 행을 찾아 수정합니다. (밑의 CSV 형식 부분 참조)
+2. 해당 수정된 파일로 이 Repository에 Pull Request를 열어주세요. GitHub Actions로 이미지가 자동으로 생성되어 Artifact로 확인해볼 수 있습니다.
+
+## 사용 방법 (Local 환경에서 구동)
 
 ### 설치하기
 
