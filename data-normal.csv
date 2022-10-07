@@ -153,7 +153,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 1040050060,ad84a30d8c509e9e792a7c5b9e943117,2,produce,4,アバウト-ナイト-ライト,어바웃-나이트-라이트,田中 摩美々,타나카 마미미
 1040050070,26fa26397363027d6a7d3a5522da60ff,1,produce,4,Have a bad day♥,Have a bad day♥,田中 摩美々,타나카 마미미
 1040060010,6100767bc6caa304c422c7befb89630f,9,produce,4,紺碧のボーダーライン,감벽의 보더라인,白瀬 咲耶,시라세 사쿠야
-1040060020,9ba28603a22e9dec0520efbd47f2b104,4,produce,4,1/60・NaturalHeart,1/60 NaturalHeart,白瀬 咲耶,시라세 사쿠야
+1040060020,9ba28603a22e9dec0520efbd47f2b104,4,produce,4,1/60・NaturalHeart,1/60・NaturalHeart,白瀬 咲耶,시라세 사쿠야
 1040060030,3da66e3ac5f9a8cafafb3f52634ed78a,3,produce,4,幸福のリズム,행복의 리듬,白瀬 咲耶,시라세 사쿠야
 1040060040,8db38734e2946432fc8859f803a6fe2e,2,produce,4,海と太陽のプロメッサ,바다와 태양의 프로메사,白瀬 咲耶,시라세 사쿠야
 1040060050,01b0a77ec26e4b54c1ba7244a804c867,2,produce,4,乙女と交わすTrick,소녀와 교차하는 Trick,白瀬 咲耶,시라세 사쿠야
@@ -190,7 +190,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 1040110030,ac4902b543f190e277cfd838fc18c1d3,3,produce,4,曲がり角のランウェイ,전환점의 런웨이,西城 樹里,사이죠 쥬리
 1040110040,ba2e104d15b2058734abf7783a3ae96d,3,produce,4,誰が為シンパシー,누군가를 위한 심퍼시,西城 樹里,사이죠 쥬리
 1040110050,5bf60a8783c19d3760e1b7ab8522ad4c,2,produce,4,秋陽のスケッチ,가을볕 스케치,西城 樹里,사이죠 쥬리
-1040110060,ba97d7c2b392de885ad3867914662e90,2,produce,4,I・OWE・U,I OWE U,西城 樹里,사이죠 쥬리
+1040110060,ba97d7c2b392de885ad3867914662e90,2,produce,4,I・OWE・U,I・OWE・U,西城 樹里,사이죠 쥬리
 1040110070,742b5821396271e81f6b836efb95c5d1,1,produce,4,花染む街で、君と,"꽃으로 물든 거리에서, 너와",西城 樹里,사이죠 쥬리
 1040120010,3b73d3ff6325d5732c0c3af7448f49dc,8,produce,4,杜野凛世の印象派,모리노 린제의 인상파,杜野 凛世,모리노 린제
 1040120020,6769fd160c8a173f01024f7e13f53f29,3,produce,4,凛世花伝,린제화전,杜野 凛世,모리노 린제
@@ -417,7 +417,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 2030170010,7c08eaf1dbb2b186d32833fdf01f2c0c,3,support,3,腹が減っては遊びはできぬ,배가 고파서는 놀 수 없다,芹沢 あさひ,세리자와 아사히
 2030170020,e3b692eb7721ddb8fcb97ad6b42c5a77,2,support,3,花火の夜に……,불꽃놀이의 밤에……,芹沢 あさひ,세리자와 아사히
 2030170030,234b4c02be7f0ce9df25ba04e1897f1b,2,support,3,頬を照らすのは,뺨을 비추는 건,芹沢 あさひ,세리자와 아사히
-2030180010,8cf1d89a11868a609e41febb62e28c1f,2,support,3,(ノージャンル)グラヴィティ,(노 장르)그라비티,黛 冬優子,마유즈미 후유코
+2030180010,8cf1d89a11868a609e41febb62e28c1f,2,support,3,(ノージャンル)グラヴィティ,(노 장르)그래비티,黛 冬優子,마유즈미 후유코
 2030180020,dfd5bb884588867a8e3f1983209834b7,2,support,3,馴染まないで非日常,익숙해지지 마 비일상,黛 冬優子,마유즈미 후유코
 2030190010,b135c34240ba1dc76f97697346adfd32,3,support,3,和泉流・書道心得,이즈미류 서예의 마음가짐,和泉 愛依,이즈미 메이
 2030190020,234cf451c9cb061e0a76d2de6f1de099,2,support,3,＋『α』,＋『α』,和泉 愛依,이즈미 메이
@@ -441,7 +441,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 2040010070,3d75a788a7f953b1d9e1947a0004c42d,2,support,4,つむぎ、まばゆく。星屑たち,"자아내는, 눈부신, 무수한 별들",櫻木 真乃,사쿠라기 마노
 2040010080,b8e3f231d588fe27d3781e0829b32daa,2,support,4,こころ、えんにならんで,"마음, 둥그렇게 늘어서서",櫻木 真乃,사쿠라기 마노
 2040010090,510a1670850b96349195009261be2d27,2,support,4,泡沫の石たちに乾杯,물거품 속 보석들을 위하여 건배,櫻木 真乃,사쿠라기 마노
-2040010100,1a19a614588afa9697b4ad3748d269ca,2,support,4,夏風渡るdiary,여름 바람 부는 diary,櫻木 真乃,사쿠라기 마노
+2040010100,1a19a614588afa9697b4ad3748d269ca,2,support,4,夏風渡るdiary,여름 바람 스치는 diary,櫻木 真乃,사쿠라기 마노
 2040010110,cf5f418501999078e38e81eca6e60ce0,1,support,4,春日影、さんならび,"봄볕, 나란한 셋",櫻木 真乃,사쿠라기 마노
 2040020010,ba5e0c844214f1ee75a84476101223b4,9,support,4,みんなと結んだもの,모두와 맺은 것,風野 灯織,카자노 히오리
 2040020020,61380bc57b74ea9ccf9efe9e92abfefb,5,support,4,風野署長の一日勤務回想録,카자노 서장의 일일근무 회상록,風野 灯織,카자노 히오리
@@ -464,7 +464,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 2040040020,5e370a51b162649e8e6d9614cf689116,8,support,4,これ、なんの話～？,"이거, 무슨 얘기~?",月岡 恋鐘,츠키오카 코가네
 2040040030,2f6f319a8514eec04622d2a228c22de3,4,support,4,SIDE：K,SIDE:K,月岡 恋鐘,츠키오카 코가네
 2040040040,56ff076ff5464cb347225a2c62155b31,3,support,4,夏、どがんね～？,"여름, 어떻당가~?",月岡 恋鐘,츠키오카 코가네
-2040040050,019b188440b777b665b88054828fa444,2,support,4,晴れ、よかばい～！,"맑아서, 좋구마이~!",月岡 恋鐘,츠키오카 코가네
+2040040050,019b188440b777b665b88054828fa444,2,support,4,晴れ、よかばい～！,"맑아서, 좋구마잉~!",月岡 恋鐘,츠키오카 코가네
 2040040060,b1a1a82a19358777dec6973fcedd2ed9,2,support,4,会いに行かんば～！,만나러 가야 혀~!,月岡 恋鐘,츠키오카 코가네
 2040040070,9a7f6e8c69e6c03d8135bd65198f205b,2,support,4,ビコーズ・ラブ,비코즈 러브,月岡 恋鐘,츠키오카 코가네
 2040040080,2ebe0c3af68033e4dec9dca8f9bc7b7a,1,support,4,あけまして、大吉～！,"새해 복, 대길~!",月岡 恋鐘,츠키오카 코가네
@@ -485,7 +485,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 2040060080,e4f937faf334d1c4824ff700d58ff5cf,1,support,4,かわいいひと,귀여운 사람,白瀬 咲耶,시라세 사쿠야
 2040070010,53c29ad856326e61fb2ec3922d1164ad,8,support,4,等身大のレイニーデイ,등신대의 레이니 데이,三峰 結華,미츠미네 유이카
 2040070020,08a5cec78dbc13db3c20fa6eeb33b6fd,5,support,4,ハロー、私の「いつも通り」,"헬로, 나의 「언제나처럼」",三峰 結華,미츠미네 유이카
-2040070030,22d8fd8e4ed784b3e1835442f9289ac3,3,support,4,賑やか四畳半,떠들썩한 넉장 반,三峰 結華,미츠미네 유이카
+2040070030,22d8fd8e4ed784b3e1835442f9289ac3,3,support,4,賑やか四畳半,떠들썩한 넉 장 반,三峰 結華,미츠미네 유이카
 2040070040,0ae3b799d6b336f253849ce6684674f1,3,support,4,プレゼントなら両手いっぱい,선물이라면 양손 가득,三峰 結華,미츠미네 유이카
 2040070050,83b35ff4ee24bc09ee45e07e18dad025,2,support,4,おはようと日向に手を振る,안녕 하고 양지에 손을 흔들다,三峰 結華,미츠미네 유이카
 2040070060,e78e415aa3a1b4254e29fe186be6a184,2,support,4,リ・リフレクション,리 리플렉션,三峰 結華,미츠미네 유이카
@@ -582,7 +582,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 2040190060,5ebc319608ce9c0f15fdd38888149266,1,support,4,左選んで～！,왼쪽 골라줘~!,和泉 愛依,이즈미 메이
 2040200010,99cb764c84a3b3807616e22db0b393a6,2,support,4,ハウ・アー・UFO,하우 아 UFO,浅倉 透,아사쿠라 토오루
 2040200020,c13212de0b73698d83e06e5818aebbde,2,support,4,pooool,pooool,浅倉 透,아사쿠라 토오루
-2040200030,4fdafd4cc90ffe94be93aae372458f21,2,support,4,がんばれ！ ノロマ号,힘내! 바보호,浅倉 透,아사쿠라 토오루
+2040200030,4fdafd4cc90ffe94be93aae372458f21,2,support,4,がんばれ！ ノロマ号,힘내! 얼간이호,浅倉 透,아사쿠라 토오루
 2040200040,7d81939a084cbebb8f50795ed0d65b36,1,support,4,チョコレー党、起立！,"초콜릿당, 기립!",浅倉 透,아사쿠라 토오루
 2040210010,4762093afa0b3b78c1ec40ae22ba6043,2,support,4,游魚,유어(游魚),樋口 円香,히구치 마도카
 2040210020,7639191017fd658392fd4947f4d5da4c,2,support,4,UNTITLED,UNTITLED,樋口 円香,히구치 마도카
@@ -626,9 +626,9 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 1040230040,931aba5aa036d447eb40afe2d097a63c,1,produce,4,S!GNATURE,S!GNATURE,市川 雛菜,이치카와 히나나
 2030140040,29c571d04d15ac929a4f8f1e5b434659,1,support,3,初風Nostalgia,가을바람 Nostalgia,大崎 甘奈,오사키 아마나
 2040020090,6d30913d922d05b9bd5e6d4c6c74bb5d,1,support,4,Can't give up,Can't give up,風野 灯織,카자노 히오리
-1030020050,38074837154fccad1bf0f4c20db16268,1,produce,3,足りない隙間,부족한 틈새,風野 灯織,카자노 히오리
+1030020050,38074837154fccad1bf0f4c20db16268,1,produce,3,足りない隙間,부족한 틈,風野 灯織,카자노 히오리
 1040170060,3a8041d5dfda1f0be61284e34f3c329b,1,produce,4,光は光へ,빛은 빛을 향해,芹沢 あさひ,세리자와 아사히
 1040060070,3d7d6100d1db15e4cf19f7edbd45ddf6,1,produce,4,はらりひらり結ぶ,살랑살랑 맺어지다,白瀬 咲耶,시라세 사쿠야
-2040030100,14ce5845753ac6366cf59e0be351b550,1,support,4,シェア・シェア・ハピネス,셰어・셰어・해피니스,八宮 めぐる,하치미야 메구루
+2040030100,14ce5845753ac6366cf59e0be351b550,1,support,4,シェア・シェア・ハピネス,셰어 셰어 해피니스,八宮 めぐる,하치미야 메구루
 2040080080,fc00153aaa0a939f0ced5139006f4f66,1,support,4,吼・吼・熱・々,후・후・열・열,幽谷 霧子,유코쿠 키리코
 2040150090,82b76df9e542626071a6f2b7dd5afabe,1,support,4,満開、うまストロメリア,"만개, 맛있스트로메리아",大崎 甜花,오사키 텐카
