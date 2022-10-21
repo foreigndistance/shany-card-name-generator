@@ -88,7 +88,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 1030140020,e04b1b418bd350fbe34e8c2226a3be04,8,produce,3,甜花ちゃんといっしょ☆,텐카쨩과 함께☆,大崎 甘奈,오사키 아마나
 1030140030,35caf6c16b39acbf924c488b31a1a34b,3,produce,3,ふたつの雨,두 개의 비,大崎 甘奈,오사키 아마나
 1030140040,63b3f83e171c83d6a0e280a94a7ac167,3,produce,3,見つけたい、だけど……,"찾아내고, 싶지만……",大崎 甘奈,오사키 아마나
-1030150010,130a8f09705036e69e990989a1482b0e,9,produce,3,秘密のだらだらタイム,비밀의 축 늘어진 타임,大崎 甜花,오사키 텐카
+1030150010,130a8f09705036e69e990989a1482b0e,9,produce,3,秘密のだらだらタイム,비밀의 빈둥빈둥 타임,大崎 甜花,오사키 텐카
 1030150020,46bbb12bc0263f9800a6ea709470a074,9,produce,3,シンメトリー・プールサイド,시메트리 풀사이드,大崎 甜花,오사키 텐카
 1030150030,995ad574fcbf964c53a6dcf82e1ef881,8,produce,3,氷上バンビーナ,빙상 밤비나,大崎 甜花,오사키 텐카
 1030150040,9ba69288db4e87e57b740bfe825bc3a7,5,produce,3,お日様染めのマリーナ,햇님색으로 물든 마리나,大崎 甜花,오사키 텐카
@@ -210,7 +210,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 1040140020,80d99ba9bee0096a8ef08d2459c38efd,5,produce,4,ゆらゆらアクアリウム,흔들흔들 아쿠아리움,大崎 甘奈,오사키 아마나
 1040140030,b674366fddb233b0a8d2a9a02fac3100,3,produce,4,ないしょのスイーツ,비밀의 스위츠,大崎 甘奈,오사키 아마나
 1040140040,027481afab683d8cb8a070ab00a2f450,3,produce,4,お散歩サンライト,산책 선라이트,大崎 甘奈,오사키 아마나
-1040140050,521c52e6720bfb65c45797ffac187d4c,2,produce,4,叶えて☆ゴールドフィッシュ,이루어 줘☆골드 피쉬,大崎 甘奈,오사키 아마나
+1040140050,521c52e6720bfb65c45797ffac187d4c,2,produce,4,叶えて☆ゴールドフィッシュ,이루어줘☆골드 피쉬,大崎 甘奈,오사키 아마나
 1040140060,b88d855724b44c8fb03ca67ac17cb569,2,produce,4,約束ペタル,약속 페탈,大崎 甘奈,오사키 아마나
 1040140070,ef46e9a53753b91b0b75231875b4a0fa,2,produce,4,雪空セパレート,눈하늘 세퍼레이트,大崎 甘奈,오사키 아마나
 1040140080,1aadd633117da85ce12e4ac7b021d007,1,produce,4,longing,longing,大崎 甘奈,오사키 아마나
@@ -389,7 +389,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 2030100010,121953fcf220a9f4bddff02179a37d78,8,support,3,迷走チョコロード,샛길로 빠지는 초코 로드,園田 智代子,소노다 치요코
 2030100020,1405e2fcc80dd9f35a637cc8bbac86e2,2,support,3,茜色セレンディピティ,꼭두서니빛 세런디피티,園田 智代子,소노다 치요코
 2030100030,0b7d3d4fa8a05f6d4b621e0068609b72,3,support,3,Best☆Great☆サマー！,Best☆Great☆서머!,園田 智代子,소노다 치요코
-2030100040,a4ce88b6c9ff8dec000761896f50b7f7,3,support,3,ぐるもこ・まふ×２,빙글복실 머플러×２,園田 智代子,소노다 치요코
+2030100040,a4ce88b6c9ff8dec000761896f50b7f7,3,support,3,ぐるもこ・まふ×２,빙글복실 머플러×2,園田 智代子,소노다 치요코
 2030100050,73f15eff0eb02406935db8f5e4893623,1,support,3,NEON♥ICE,NEON♥ICE,園田 智代子,소노다 치요코
 2030110010,52e443866645cd0650565d7075a6f3f9,9,support,3,意地っ張りサンセット,고집쟁이 선셋,西城 樹里,사이죠 쥬리
 2030110020,fbf534eed839087c54465fcc4e398348,8,support,3,３名様極楽旅行記,3인극락여행기,西城 樹里,사이죠 쥬리
@@ -535,7 +535,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 2040130070,28dde2137eb247be2bb16534d2f87ec9,1,support,4,明日の思い出で笑って,내일의 추억으로 웃어,有栖川 夏葉,아리스가와 나츠하
 2040130080,054265befed45a04bbba737bdfa0da02,1,support,4,ベリー・ストロベリー,베리 스트로베리,有栖川 夏葉,아리스가와 나츠하
 2040140010,95943b0f305f1e2cdc972d3c024aa019,9,support,4,幸せのりんご飴,행복의 사과사탕,大崎 甘奈,오사키 아마나
-2040140020,d26fdf0270ca9fe527705ec673402284,8,support,4,まだ……寝ないから……,아직……안 잘 거니까……,大崎 甘奈,오사키 아마나
+2040140020,d26fdf0270ca9fe527705ec673402284,8,support,4,まだ……寝ないから……,아직…… 안 잘 거니까……,大崎 甘奈,오사키 아마나
 2040140030,f3811264d7d59ed722b24892efdc1c51,5,support,4,お菓子なティータイム,과자가득 티타임,大崎 甘奈,오사키 아마나
 2040140040,4e21af843875bb59d7b1972b6585062a,3,support,4,ハッピーの答えはどこに？,해피의 답은 어디에?,大崎 甘奈,오사키 아마나
 2040140050,28c2d21cf43b96900fdafb167a53eb7f,3,support,4,Cherry Jelly,Cherry Jelly,大崎 甘奈,오사키 아마나
@@ -636,7 +636,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 1040130080,3be473fbf2a7f23b3ee733a3eeb5777c,1,produce,4,Fall,Fall,有栖川 夏葉,아리스가와 나츠하
 2040220050,b0efac39e98969d820b17a55ce39cfa0,1,support,4,きっと色褪せるけど,분명 색이 바래겠지만,福丸 小糸,후쿠마루 코이토
 1040180060,857d966d6498e5d59608b53753829002,1,produce,4,幕間、沸々と高温,"막간, 펄펄 끓는 고온",黛 冬優子,마유즈미 후유코
-2030120050,8892e8f36bf65f60230c65a5ed98ec4a,1,support,3,別冊をとめ,별책 오토메,杜野 凛世,모리노 린제
+2030120050,8892e8f36bf65f60230c65a5ed98ec4a,1,support,3,別冊をとめ,별책 소녀,杜野 凛世,모리노 린제
 2040240050,e8710b7adade6288ad2d5e8f3b85ddca,1,support,4,こんなのホラーでしょ最悪,이런 거 호러잖아요 최악이야,七草 にちか,나나쿠사 니치카
 2030030060,15612bc5eb3807dd35ea1bd49e1faed3,1,support,3,MUGEN BEAT,MUGEN BEAT,八宮 めぐる,하치미야 메구루
 2030080050,59978c532f4860cdc77ce2d103c66ffe,1,support,3,MUGEN BEAT,MUGEN BEAT,幽谷 霧子,유코쿠 키리코
