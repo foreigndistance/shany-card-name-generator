@@ -180,7 +180,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 1040090070,719239603cf956949039f98f67526e70,1,produce,4,ギア・アップ！ゴー・オン！,기어 업! 고 온!,小宮 果穂,코미야 카호
 1040100010,94175920091bef4343c55f2b6350b446,8,produce,4,ちょこ色×きらきらロマン,쵸코색x반짝반짝 로망,園田 智代子,소노다 치요코
 1040100020,3660533f8aa214d1da9c58c7aaff39e3,5,produce,4,あそ→と♡ちよこれいと,어소→트♡치요코레엣,園田 智代子,소노다 치요코
-1040100030,561c50d79637cc8f4d33666b8c1c1fc2,3,produce,4,かきまぜたら＊ミルク,휘젓는다면＊밀크,園田 智代子,소노다 치요코
+1040100030,561c50d79637cc8f4d33666b8c1c1fc2,3,produce,4,かきまぜたら＊ミルク,휘저으면＊밀크,園田 智代子,소노다 치요코
 1040100040,00acd93518ff3435217b3c9317b224ba,3,produce,4,You're My Dream,You're My Dream,園田 智代子,소노다 치요코
 1040100050,7cbbaeeb6cb5b61febc26555a52df818,2,produce,4,プリティ・スイート,프리티 스위트,園田 智代子,소노다 치요코
 1040100060,c306915626ce4d9ed4d48966693f05f7,2,produce,4,砂糖づけ・ビターエンド,설탕 절임 비터 엔드,園田 智代子,소노다 치요코
@@ -682,3 +682,6 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 1040200050,8ad80bee0e39efe284d7c3f2514e4f60,1,produce,4,夜はなにいろ,밤은 무슨 색,浅倉 透,아사쿠라 토오루
 2030160060,b1c67b23b355eb199d3f8335704fa86d,1,support,3,Noir,Noir,桑山 千雪,쿠와야마 치유키
 2040090090,1e7b180c26d477c62171a77821b7c17a,1,support,4,グロウン・メイク・アップ！,그로운 메이크 업!,小宮 果穂,코미야 카호
+1030220020,03baa57c5524965c0d327f082d769295,1,produce,3,福はうち,복은 안으로,福丸 小糸,후쿠마루 코이토
+1040150080,ed5b1d2148f267e5ea6dc570751cec52,1,produce,4,甜ing Room,텐ing Room,大崎 甜花,오사키 텐카
+2040040090,493aa2ff7de171cedea08c1c7dbd2f8b,1,support,4,にゃんにゃんにゃ～ん♡,냥냥냐~앙♡,月岡 恋鐘,츠키오카 코가네
