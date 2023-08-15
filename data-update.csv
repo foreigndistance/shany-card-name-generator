@@ -255,7 +255,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 1040220010,d7038fba9f7b2153cb56ba5e24410c81,2,produce,4,ポシェットの中には,핸드백 안에는,福丸 小糸,후쿠마루 코이토
 1040220020,b674a7f211f61a78912ede1f51102ccd,2,produce,4,おみくじ結びますか,오미쿠지 묶으실래요?,福丸 小糸,후쿠마루 코이토
 1040220030,d9b38a2981ee9a43f87d34a43a3d6dd0,1,produce,4,てのひらの答え,손바닥 안의 답,福丸 小糸,후쿠마루 코이토
-1040220040,7f4cb7bb686ca6a858c65ca31cb0ae69,1,produce,4,なつやすみ学校,여름방학 학교,福丸 小糸,후쿠마루 코이토
+1040220040,7f4cb7bb686ca6a858c65ca31cb0ae69,1,produce,4,なつやすみ学校,여름 방학 학교,福丸 小糸,후쿠마루 코이토
 1040230010,30b4a15a104f745429162bc75fec4f3e,2,produce,4,HAPPY-!NG,HAPPY-!NG,市川 雛菜,이치카와 히나나
 1040230020,5660b8d0be6838831be9cd4c21fd1497,2,produce,4,♡LOG,♡LOG,市川 雛菜,이치카와 히나나
 1040230030,0b80dda027e41c989c10ff6fc6082a90,2,produce,4,TRICK☆☆☆,TRICK☆☆☆,市川 雛菜,이치카와 히나나
@@ -755,3 +755,5 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 2030090060,687b7d3bcf033bb79849c0e80f0c5dee,1,support,3,『大天使カホエル』,『대천사 카호엘』,小宮 果穂,코미야 카호
 2040250080,a6dec0c4b0a855bd3510a15c43bd6402,1,support,4,overlap,overlap,緋田 美琴,아케타 미코토
 2030050050,9af9129e8a895db8467bfe72a7758720,1,support,3,コミケ102,코미케102,田中 摩美々,타나카 마미미
+1040090100,d51d9d10a1651f90e9ad27a811a4da08,1,produce,4,カラーズキャッチ！,컬러즈 캐치!,小宮 果穂,코미야 카호
+1040240050,da45eb95fa06d70f914cf3ffff0716cc,1,produce,4,ふラiとぅTHE,플라i 투 THE,七草 にちか,나나쿠사 니치카
