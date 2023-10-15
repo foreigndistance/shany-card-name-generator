@@ -575,7 +575,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 2040180070,b6c10c8e7ec56a85156aa1e3c8e8712a,1,support,4,二律背反sweet,이율배반 sweet,黛 冬優子,마유즈미 후유코
 2040180080,4903afd2f3f51d9fd2ccb46ea97c0e68,1,support,4,＜IF＞,<IF>,黛 冬優子,마유즈미 후유코
 2040190010,46916762f833aeb47a5f4ba5bbae7135,3,support,4,なるんじゃん？,될 거잖아?,和泉 愛依,이즈미 메이
-2040190020,5ce7403c8efedaf1225fc3cdd3178588,3,support,4,うち来る～！？,우리집 올래~!?,和泉 愛依,이즈미 메이
+2040190020,5ce7403c8efedaf1225fc3cdd3178588,3,support,4,うち来る～！？,우리 집 올래~!?,和泉 愛依,이즈미 메이
 2040190030,a4e6cc30f53a659d86b195d74a46be34,2,support,4,エンジョイ！パーティ,엔조이! 파티,和泉 愛依,이즈미 메이
 2040190040,40bce09ff0f930db8b3d743c178db11b,2,support,4,いるっしょ！,있잖아!,和泉 愛依,이즈미 메이
 2040190050,8c823db641c688b6f05bbe29e1e145e1,2,support,4,よしよし♪,옳지옳지♪,和泉 愛依,이즈미 메이
@@ -777,3 +777,5 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 1040050100,9cfd560db00089684154d25f1ffd335f,1,produce,4,まみみスイッチ,마미미 스위치,田中 摩美々,타나카 마미미
 2030120060,c596947a689588abcd84e004521b0fb5,1,support,3,竜想譚,용상담,杜野 凛世,모리노 린제
 2040080100,870928700443acd21e20dfb2e932da6f,1,support,4,楓・風・娘・娘,풍・풍・랑・랑,幽谷 霧子,유코쿠 키리코
+1040130100,f48b58d9b65d7efb983a8e47d04f4ad8,1,produce,4,ビューティ/フル,KoreanCardName,有栖川 夏葉,아리스가와 나츠하
+1040190080,8b2066a68818bf9eef30f57d44c0018a,1,produce,4,何度転んだって,몇 번을 넘어진대도,和泉 愛依,이즈미 메이
