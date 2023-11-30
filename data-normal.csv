@@ -425,7 +425,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 2030200010,dafd99ea27a7dcd744a744ce500d90e6,2,support,3,かっとばし党の逆襲,날려버린당의 역습,浅倉 透,아사쿠라 토오루
 2030200020,d0b7785b7dadb18727713888633746a1,2,support,3,faaaar,faaaar,浅倉 透,아사쿠라 토오루
 2030200030,d76a3655c51c33d63a43e35675d562f4,1,support,3,殴打、その他の夢について,"구타, 그 밖의 꿈에 대하여",浅倉 透,아사쿠라 토오루
-2030210010,4dcd34f3a25a3394d956019f851509f4,2,support,3,閑話,한담,樋口 円香,히구치 마도카
+2030210010,4dcd34f3a25a3394d956019f851509f4,2,support,3,閑話,한담(閑話),樋口 円香,히구치 마도카
 2030210020,2710fd7c06a5b189121e12a31ec46113,2,support,3,Feb.,Feb.,樋口 円香,히구치 마도카
 2030220010,d918f8f245c623475844ae9e073cf163,2,support,3,きせつはアイスクリン,계절은 아이스크린,福丸 小糸,후쿠마루 코이토
 2030220020,3c06b14107f7cf83042e4e047a850767,2,support,3,しかえし優等生,복수 우등생,福丸 小糸,후쿠마루 코이토
@@ -588,7 +588,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 2040210020,7639191017fd658392fd4947f4d5da4c,2,support,4,UNTITLED,UNTITLED,樋口 円香,히구치 마도카
 2040210030,b0f8690698e52dcd48de0242c4d8dfd3,2,support,4,雨情,우정(雨情),樋口 円香,히구치 마도카
 2040210040,78fea39cb4b814f4fa624584bf31a16b,1,support,4,射陽,사양(射陽),樋口 円香,히구치 마도카
-2040210050,539fb3067efa627e2db582b6ea696181,1,support,4,洒落,쇄락,樋口 円香,히구치 마도카
+2040210050,539fb3067efa627e2db582b6ea696181,1,support,4,洒落,쇄락(洒落),樋口 円香,히구치 마도카
 2040210060,8ff841c0680cb04c188861c7d3a9f8c9,1,support,4,ハシルウマ,달리는 말,樋口 円香,히구치 마도카
 2040220010,e4dcbdf86b4216c56c4682f8fd0a1abb,2,support,4,パーティーのやくそく,파티 약속,福丸 小糸,후쿠마루 코이토
 2040220020,0e3ad547376f346f0ece5346797b78ec,2,support,4,思い出にもならない,추억거리도 안 돼,福丸 小糸,후쿠마루 코이토
@@ -726,7 +726,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 2040160100,d27e6efc52bd55980d82a4961998b7da,1,support,4,一瞬を閉じ込め、あなたに,"한순간을 가둬, 당신에게",桑山 千雪,쿠와야마 치유키
 1040080080,06d4a5a17a22818301fefe7c3b474386,1,produce,4,空・風・明・鳴,공・풍・명・명,幽谷 霧子,유코쿠 키리코
 2040070090,5d05e83c272b02d04fa31ae2e33dd0c6,1,support,4,焦,갈망,三峰 結華,미츠미네 유이카
-2040210070,23fa9e559ec6287c150eea176e98f326,1,support,4,漠漠,막막,樋口 円香,히구치 마도카
+2040210070,23fa9e559ec6287c150eea176e98f326,1,support,4,漠漠,막막(漠漠),樋口 円香,히구치 마도카
 2040180090,3117892a6d5a73ebde45a112ae9420df,1,support,4,とある日の,어느 날의,黛 冬優子,마유즈미 후유코
 1040130090,b7cdc4e4388b4aa36c01dff1b839324e,1,produce,4,Birdy BUddy,Birdy BUddy,有栖川 夏葉,아리스가와 나츠하
 2030170040,d27a6f7e4f66038ee8fb56d7928ce419,1,support,3,月に向かって吠えろ,달을 향해 울부짖어라,芹沢 あさひ,세리자와 아사히
@@ -810,3 +810,5 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 1040100100,f8727911f6f17d9417a0fe55d64eb8fb,1,produce,4,Kn☆cking.Kn☆cking.,Kn☆cking.Kn☆cking.,園田 智代子,소노다 치요코
 2030160070,d1fe8fb42fb4072e695484400ec91f90,1,support,3,世界はこの、腕の中,"세계는 이, 품 안에",桑山 千雪,쿠와야마 치유키
 2040150130,d891598693225808dacef78dc896a224,1,support,4,Pop-Up！My ♡,Pop-Up! My ♡,大崎 甜花,오사키 텐카
+1040160100,23fa719399c51ea108241508f09a042f,1,produce,4,剥がされて、虚ろ,"벗겨지고, 텅 빈",桑山 千雪,쿠와야마 치유키
+2030210040,31aac42e011aa4a987fb4465408a523e,1,support,3,無色,무색(無色),樋口 円香,히구치 마도카
