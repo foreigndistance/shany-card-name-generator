@@ -101,7 +101,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 1030160050,e5b8b3e23d51047a4a498e5b4ddafa80,2,produce,3,夏、イエー,"여름, 예이",桑山 千雪,쿠와야마 치유키
 1030170010,7afa786187accc1f494b5970e4757d65,3,produce,3,さかさま世界,거꾸로 세계,芹沢 あさひ,세리자와 아사히
 1030170020,b38595f958abcc285d0eab78ea2b3b09,3,produce,3,かしゃーんとがらがら,찰캉과 드르르륵,芹沢 あさひ,세리자와 아사히
-1030170030,78a3bca940d0fa4d4b8ab6157dd88c1f,2,produce,3,はり・はり,유리・유리,芹沢 あさひ,세리자와 아사히
+1030170030,78a3bca940d0fa4d4b8ab6157dd88c1f,2,produce,3,はり・はり,유리 유리,芹沢 あさひ,세리자와 아사히
 1030170040,9a498bfda8c00ab4ecadfa23bd7a6b9c,2,produce,3,黄葉の冠,노란 단풍잎 관,芹沢 あさひ,세리자와 아사히
 1030180010,51046c66c4b287f1492966974a04153f,3,produce,3,ザ・冬優子イズム,더 후유코이즘,黛 冬優子,마유즈미 후유코
 1030180020,f861862937f60f3595ac0656b24ca64b,3,produce,3,水×天カイヤナイト,물×하늘 카이아나이트,黛 冬優子,마유즈미 후유코
@@ -153,7 +153,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 1040050060,ad84a30d8c509e9e792a7c5b9e943117,2,produce,4,アバウト-ナイト-ライト,어바웃-나이트-라이트,田中 摩美々,타나카 마미미
 1040050070,26fa26397363027d6a7d3a5522da60ff,1,produce,4,Have a bad day♥,Have a bad day♥,田中 摩美々,타나카 마미미
 1040060010,6100767bc6caa304c422c7befb89630f,9,produce,4,紺碧のボーダーライン,감벽의 보더라인,白瀬 咲耶,시라세 사쿠야
-1040060020,9ba28603a22e9dec0520efbd47f2b104,4,produce,4,1/60・NaturalHeart,1/60・NaturalHeart,白瀬 咲耶,시라세 사쿠야
+1040060020,9ba28603a22e9dec0520efbd47f2b104,4,produce,4,1/60・NaturalHeart,1/60 NaturalHeart,白瀬 咲耶,시라세 사쿠야
 1040060030,3da66e3ac5f9a8cafafb3f52634ed78a,3,produce,4,幸福のリズム,행복의 리듬,白瀬 咲耶,시라세 사쿠야
 1040060040,8db38734e2946432fc8859f803a6fe2e,2,produce,4,海と太陽のプロメッサ,바다와 태양의 프로메사,白瀬 咲耶,시라세 사쿠야
 1040060050,01b0a77ec26e4b54c1ba7244a804c867,2,produce,4,乙女と交わすTrick,소녀와 교차하는 Trick,白瀬 咲耶,시라세 사쿠야
@@ -190,7 +190,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 1040110030,ac4902b543f190e277cfd838fc18c1d3,3,produce,4,曲がり角のランウェイ,전환점의 런웨이,西城 樹里,사이죠 쥬리
 1040110040,ba2e104d15b2058734abf7783a3ae96d,3,produce,4,誰が為シンパシー,누군가를 위한 심퍼시,西城 樹里,사이죠 쥬리
 1040110050,5bf60a8783c19d3760e1b7ab8522ad4c,2,produce,4,秋陽のスケッチ,가을볕 스케치,西城 樹里,사이죠 쥬리
-1040110060,ba97d7c2b392de885ad3867914662e90,2,produce,4,I・OWE・U,I・OWE・U,西城 樹里,사이죠 쥬리
+1040110060,ba97d7c2b392de885ad3867914662e90,2,produce,4,I・OWE・U,I OWE U,西城 樹里,사이죠 쥬리
 1040110070,742b5821396271e81f6b836efb95c5d1,1,produce,4,花染む街で、君と,"꽃으로 물든 거리에서, 너와",西城 樹里,사이죠 쥬리
 1040120010,3b73d3ff6325d5732c0c3af7448f49dc,8,produce,4,杜野凛世の印象派,모리노 린제의 인상파,杜野 凛世,모리노 린제
 1040120020,6769fd160c8a173f01024f7e13f53f29,3,produce,4,凛世花伝,린제화전,杜野 凛世,모리노 린제
@@ -218,7 +218,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 1040150020,de29145ac03d329f18248591a4af1432,3,produce,4,好きなものはなんですか？,좋아하는 것은 무엇인가요?,大崎 甜花,오사키 텐카
 1040150030,fb48984f649fa75256652a17e13cb97a,3,produce,4,I♡DOLL,I♡DOLL,大崎 甜花,오사키 텐카
 1040150040,b64d9c9485d34c2b91709ef84184e43a,3,produce,4,四夜一夜物語,사일야화,大崎 甜花,오사키 텐카
-1040150050,277d5edbef17bfd7918a7ed832a72aec,2,produce,4,BON・BON・DAY！,BON・BON・DAY!,大崎 甜花,오사키 텐카
+1040150050,277d5edbef17bfd7918a7ed832a72aec,2,produce,4,BON・BON・DAY！,BON BON DAY!,大崎 甜花,오사키 텐카
 1040150060,f6a02b89b7cd1adea23cf125a59d91e2,2,produce,4,バス・タイムの気分で,배스 타임 기분으로,大崎 甜花,오사키 텐카
 1040150070,2b096a875cd2646f801131d775f24332,1,produce,4,Feel Like Flower,Feel Like Flower,大崎 甜花,오사키 텐카
 1040160010,aa1970c28b9d338c9da486d7fdf805e7,8,produce,4,マイ・ピュア・ロマンス,마이 퓨어 로맨스,桑山 千雪,쿠와야마 치유키
