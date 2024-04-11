@@ -172,7 +172,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 1040080050,c9be8269cced54a395102242e7ce9fa7,2,produce,4,琴・禽・空・華,금・금・공・화,幽谷 霧子,유코쿠 키리코
 1040080060,c6a187cf6764165482166f7dac86fa99,2,produce,4,かぜかんむりのこどもたち,바람을 품은 아이들,幽谷 霧子,유코쿠 키리코
 1040090010,81ee9a39be6be420e028a2e6e5548526,9,produce,4,第２形態アーマードタイプ,제2 형태 아머드 타입,小宮 果穂,코미야 카호
-1040090020,1a6c76bfef92bfcfed4ab4cc1223b00a,5,produce,4,新装備・バブルバスター！,신장비・버블 버스터!,小宮 果穂,코미야 카호
+1040090020,1a6c76bfef92bfcfed4ab4cc1223b00a,5,produce,4,新装備・バブルバスター！,신장비 버블 버스터!,小宮 果穂,코미야 카호
 1040090030,22631145ac01142a511d082b9ab3caeb,3,produce,4,潮騒のシーショア,파도 소리의 시쇼어,小宮 果穂,코미야 카호
 1040090040,4cc4728625a5710d52aecc0baac7a11f,3,produce,4,エクストリーム・ブレイク！,익스트림 브레이크!,小宮 果穂,코미야 카호
 1040090050,007ba0545524a9d8dace3bfb693b7a98,2,produce,4,日刊ウィズ・ユー！,일간 위드 유!,小宮 果穂,코미야 카호
@@ -871,3 +871,6 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 1040060110,0b1b7188104c001da1fe934b8bf286c6,1,produce,4,記憶が降る街,기억이 내리는 거리,白瀬 咲耶,시라세 사쿠야
 2040170100,379b114ed91acccdb66b5c0ff93414cb,1,support,4,夕日に照らされ光るもの,석양에 비쳐 빛나는 것,芹沢 あさひ,세리자와 아사히
 2040200090,4e161d68191768923bf788db2d9a3fa4,1,support,4,てやんでぇ,뭔 소리야,浅倉 透,아사쿠라 토오루
+1040280030,e6afdb99b04e4e2e21cea2f0190e08ab,1,produce,4,桜花拾,벚꽃 줍기,郁田 はるき,이쿠타 하루키
+2030210060,6dfa6dacf64d923d719aa2c642051aee,1,support,3,fuka,fuka,樋口 円香,히구치 마도카
+2040050110,4eabe2f43fb81dba29c396672b63c22f,1,support,4,パッチ・リコレクション,패치 리콜렉션,田中 摩美々,타나카 마미미
