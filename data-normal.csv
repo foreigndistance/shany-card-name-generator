@@ -67,7 +67,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 1030090040,5e586152fe59f04ea35494d817cab13f,3,produce,3,窓辺・サイレントタイム,창가 사일런트 타임,小宮 果穂,코미야 카호
 1030090050,57fb6a95a8c09b025943e1bf0e5e5c70,1,produce,3,ソー・ディフィカルト！,소 디피컬트!,小宮 果穂,코미야 카호
 1030100010,3d5208993418b7441178e17691ccb092,9,produce,3,純真チョコレート,순진 초콜릿,園田 智代子,소노다 치요코
-1030100020,26f5ab142e8bccbaf8fb742adbda8996,9,produce,3,よろしく♡めしませっ,잘♡드세욧,園田 智代子,소노다 치요코
+1030100020,26f5ab142e8bccbaf8fb742adbda8996,9,produce,3,よろしく♡めしませっ,맛있게♡드세욧,園田 智代子,소노다 치요코
 1030100030,1b797d78168ada34c7ec5531c22926a3,3,produce,3,錯覚・Darling,착각 Darling,園田 智代子,소노다 치요코
 1030100040,9147b864bd2cafb454709eed7533986e,2,produce,3,フロイラインに心酔,프로이라인에 심취,園田 智代子,소노다 치요코
 1030110010,3805a0ec5fc37a697bd5bf656e432a32,9,produce,3,バッドガールの羽ばたき,배드 걸의 날갯짓,西城 樹里,사이죠 쥬리
@@ -106,7 +106,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 1030180010,51046c66c4b287f1492966974a04153f,3,produce,3,ザ・冬優子イズム,더 후유코이즘,黛 冬優子,마유즈미 후유코
 1030180020,f861862937f60f3595ac0656b24ca64b,3,produce,3,水×天カイヤナイト,물×하늘 카이아나이트,黛 冬優子,마유즈미 후유코
 1030180030,b43f56dd598d44a657b58f77940f126a,2,produce,3,はるさき可憐花,초봄 가련한 꽃,黛 冬優子,마유즈미 후유코
-1030190010,340a18641c774c18109f12e2456e1ec8,3,produce,3,気になる！？染めちゃう！？,궁금해!? 염색해버려!?,和泉 愛依,이즈미 메이
+1030190010,340a18641c774c18109f12e2456e1ec8,3,produce,3,気になる！？染めちゃう！？,신경쓰여!? 염색할까!?,和泉 愛依,이즈미 메이
 1030190020,23ec9a30a7105f0fabcb7aa07a713b84,3,produce,3,てへっ♪,테헷♪,和泉 愛依,이즈미 메이
 1030190030,99814cdaa069ccb45e72dbebeaa43e28,2,produce,3,ご褒美、いるよね♪,"보상, 필요하지♪",和泉 愛依,이즈미 메이
 1030200010,da67da775a6789dc0703770efdfb441b,2,produce,3,まわるものについて,도는 것에 대하여,浅倉 透,아사쿠라 토오루
@@ -127,7 +127,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 1040010070,6c1b876bbb3c4b1347f8ffb062cc01c8,1,produce,4,ひとつ、はたたく,"하나, 펄럭이다",櫻木 真乃,사쿠라기 마노
 1040010080,393e4d548c005ccca6e94f727424bbdd,1,produce,4,interStellar-Stella,interStellar-Stella,櫻木 真乃,사쿠라기 마노
 1040020010,118a9af13ba8d3398f421bd579ed1231,9,produce,4,柔らかな微笑み,온화한 미소,風野 灯織,카자노 히오리
-1040020020,6d139c8b1b7799750bbb2a4b04dfe79a,8,produce,4,淡雪の戯れ,얕게 깔린 눈에서의 장난,風野 灯織,카자노 히오리
+1040020020,6d139c8b1b7799750bbb2a4b04dfe79a,8,produce,4,淡雪の戯れ,자국눈의 장난,風野 灯織,카자노 히오리
 1040020030,52664992d5e3a48430cc3664ffe1ce5e,3,produce,4,伸ばす手に乗せるのは,내민 손에 담는 것은,風野 灯織,카자노 히오리
 1040020040,3544a2c47a774c45df1c32f23c6c8eb9,3,produce,4,清閑に息をひそめて,청한하게 숨을 죽이고,風野 灯織,카자노 히오리
 1040020050,ba89662a317c249b5ec169418ebcc1cb,2,produce,4,黒百合前で待ち合わせ,검은 백합 앞에서 만나기로 해,風野 灯織,카자노 히오리
@@ -513,7 +513,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 2040100060,7618c3ce79f67eddbe63ab3a76c950ac,2,support,4,code:SH☆☆TING star!,code:SH☆☆TING star!,園田 智代子,소노다 치요코
 2040100070,7f4e6d931bb61b13149522e48c500750,2,support,4,生彩トラベリング,생기 트래블링,園田 智代子,소노다 치요코
 2040110010,66cab712b59447ebfbcdb4f241fcc263,9,support,4,未知なるFROZEN,미지의 FROZEN,西城 樹里,사이죠 쥬리
-2040110020,30a96457bba338d7f9f9b5d16648413e,3,support,4,スリープオーバーベイビー,슬립오버 베이비,西城 樹里,사이죠 쥬리
+2040110020,30a96457bba338d7f9f9b5d16648413e,3,support,4,スリープオーバーベイビー,슬립 오버 베이비,西城 樹里,사이죠 쥬리
 2040110030,a12c1f95e580e7b7d367698fff69dd87,3,support,4,坂道だらけのこの街で,언덕길투성이인 이 거리에서,西城 樹里,사이죠 쥬리
 2040110040,6522011931dfd7c15bea4d6df6fe4731,2,support,4,SPACE WHAT？,SPACE WHAT?,西城 樹里,사이죠 쥬리
 2040110050,4790d02ef4a0a3dee54c15e64a2e4e63,2,support,4,モーニング・グロウリー？,모닝 글로리?,西城 樹里,사이죠 쥬리
@@ -816,7 +816,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 1040200060,1a46eb665220ae85ed4d7a23884681e4,1,produce,4,あてもなく、風,"정처 없는, 바람",浅倉 透,아사쿠라 토오루
 1040040090,e6ba91e55ebc359c73cc3db95c640a12,1,produce,4,ふりそそぐもの,내리쏟아지는 것,月岡 恋鐘,츠키오카 코가네
 2040130120,777f128af081bb15b15e23f6cbe7ac08,1,support,4,ヒイラギの窓辺に,호랑가시나무 창가에,有栖川 夏葉,아리스가와 나츠하
-2040170090,88359baf470c293add29b28ce685ac2c,1,support,4,吹雪舞う地でのひと時,눈보라 치는 땅에서의 한때,芹沢 あさひ,세리자와 아사히
+2040170090,88359baf470c293add29b28ce685ac2c,1,support,4,吹雪舞う地でのひと時,눈보라 치는 땅의 한때,芹沢 あさひ,세리자와 아사히
 1020270010,0b232d481c3ad1ce355f71d89a34d831,1,produce,2,白いツバサ,하얀 날개,鈴木 羽那,스즈키 하나
 1020280010,b33eba6a8f900ae880730a304b44e702,1,produce,2,白いツバサ,하얀 날개,郁田 はるき,이쿠타 하루키
 2030020100,50b54634bf71e61337e79c161f3a1440,1,support,3,空×虹,하늘×무지개,風野 灯織,카자노 히오리
@@ -884,3 +884,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 1040140110,af956791c0aae7b113873ea90e4b68d4,1,produce,4,憧憬リキュール,동경 리큐어,大崎 甘奈,오사키 아마나
 1040230080,56a22c327b0c183963039730f588dcbb,1,produce,4,change___,change___,市川 雛菜,이치카와 히나나
 2030150050,dbc757411ce88c2ce0a69af274a9272d,1,support,3,余白のページ,여백의 페이지,大崎 甜花,오사키 텐카
+2030080090,e3e7c9b7fdd409040221d943494ecba2,1,support,3,Fantastic Fireworks,Fantastic Fireworks,幽谷 霧子,유코쿠 키리코
+2030140080,52e3b745436b5aa988fe70b58be26c3f,1,support,3,みんなと一緒に,KoreanCardName,大崎 甘奈,오사키 아마나
+2030150060,a0e5ad0e620b4cc0af5fa3002d7b6401,1,support,3,未来への憧れ,미래에 대한 동경,大崎 甜花,오사키 텐카
+2030270010,58766060600f373b6fae8094b7272da2,1,support,3,Fantastic Fireworks,Fantastic Fireworks,鈴木 羽那,스즈키 하나
