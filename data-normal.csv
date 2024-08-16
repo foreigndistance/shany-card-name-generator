@@ -620,7 +620,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 1030190040,a259575cb7b6dd10042d94fccbe597d5,1,produce,3,見つかっちゃった♪,들켜버렸다♪,和泉 愛依,이즈미 메이
 1040080070,75cc7ee66752717e6502b12d29ddae79,1,produce,4,縷・縷・屡・来,루・루・루・쿠,幽谷 霧子,유코쿠 키리코
 2040230040,2c611b43e5b014c9694d854cc6317025,1,support,4,DIVEIN!,DIVEIN!,市川 雛菜,이치카와 히나나
-1040030080,07abad95849b2beeec30eab79920aa8e,1,produce,4,たそかれスワッグ,저녁놀 스왜그,八宮 めぐる,하치미야 메구루
+1040030080,07abad95849b2beeec30eab79920aa8e,1,produce,4,たそかれスワッグ,저녁놀 스웨그,八宮 めぐる,하치미야 메구루
 2040010120,ceeab1718c818084d68195718e309e92,1,support,4,私のレンズの先のこと,내 렌즈 앞의 사건,櫻木 真乃,사쿠라기 마노
 2040120090,32d1022b3e4a5a45373a5425f509b97a,1,support,4,珈琲の牛乳いれたん,커피에 우유 넣은 거,杜野 凛世,모리노 린제
 1040230040,931aba5aa036d447eb40afe2d097a63c,1,produce,4,S!GNATURE,S!GNATURE,市川 雛菜,이치카와 히나나
@@ -811,7 +811,7 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 2030160070,d1fe8fb42fb4072e695484400ec91f90,1,support,3,世界はこの、腕の中,"세계는 이, 품 안에",桑山 千雪,쿠와야마 치유키
 2040150130,d891598693225808dacef78dc896a224,1,support,4,Pop-Up！My ♡,Pop-Up! My ♡,大崎 甜花,오사키 텐카
 1040160100,23fa719399c51ea108241508f09a042f,1,produce,4,剥がされて、虚ろ,"벗겨지고, 텅 빈",桑山 千雪,쿠와야마 치유키
-2030210040,31aac42e011aa4a987fb4465408a523e,1,support,3,無色,무색(無色),樋口 円香,히구치 마도카
+2030210040,31aac42e011aa4a987fb4465408a523e,1,support,3,無色,무색,樋口 円香,히구치 마도카
 1040120100,4e4a7e0f6df7e19c274dd04746c37f4a,1,produce,4,染光満月,염광만월,杜野 凛世,모리노 린제
 1040200060,1a46eb665220ae85ed4d7a23884681e4,1,produce,4,あてもなく、風,"정처 없는, 바람",浅倉 透,아사쿠라 토오루
 1040040090,e6ba91e55ebc359c73cc3db95c640a12,1,produce,4,ふりそそぐもの,내리쏟아지는 것,月岡 恋鐘,츠키오카 코가네
@@ -942,3 +942,5 @@ id,hash,version,type,rarity,card_name_original,card_name,idol_name_orginal,idol_
 2030210070,90ad59b1fb1c5ed414fbe04c4c3e7a80,1,support,3,露光,노광(露光),樋口 円香,히구치 마도카
 2048010010,c59fd57b685c30029fffe83417c563ca,1,support,4,Starlight,Starlight,ルビー,루비
 2048040010,04819a0f4e67e6653f91513d37079c00,1,support,4,Actors,Actors,黒川 あかね,쿠로카와 아카네
+1048010020,a015483a6a071603602691fa7e31ed6b,2,produce,4,In red,In red,ルビー,루비
+1048020020,78cdea80384d12a446580a35bf70ba3c,2,produce,4,In white,In white,有馬 かな,아리마 카나
